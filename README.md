@@ -3,7 +3,7 @@ this is a demo for git and github classes.
 
 
 # teacher
-shivendra 
+shivendra ..
 
  # student
  shiv 
