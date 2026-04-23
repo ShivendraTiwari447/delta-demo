@@ -6,7 +6,7 @@ this is a demo for git and github classes
 shivendra ..
 tiwari
  # student
- shiv 
+ shiv ..
 
  shivendra tiwari ..
  
